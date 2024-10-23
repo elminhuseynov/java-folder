@@ -1,0 +1,1 @@
+console.log(Math.floor(95 + Math.random()* 6));
